@@ -1,0 +1,4 @@
+# Project exclude paths
+/JPA_maven_final/target/
+/target/
+/week_3_JPA_improve/target/
